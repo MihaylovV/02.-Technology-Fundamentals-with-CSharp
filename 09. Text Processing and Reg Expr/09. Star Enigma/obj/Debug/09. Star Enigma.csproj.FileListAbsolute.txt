@@ -1,0 +1,7 @@
+G:\C#\GitHub Repositories\02. Technology Fundamentals with C# - 2019\09. Text Processing and Reg Expressions\09. Text Processing and Reg Expr\09. Star Enigma\bin\Debug\_09.Star_Enigma.exe.config
+G:\C#\GitHub Repositories\02. Technology Fundamentals with C# - 2019\09. Text Processing and Reg Expressions\09. Text Processing and Reg Expr\09. Star Enigma\bin\Debug\_09.Star_Enigma.exe
+G:\C#\GitHub Repositories\02. Technology Fundamentals with C# - 2019\09. Text Processing and Reg Expressions\09. Text Processing and Reg Expr\09. Star Enigma\bin\Debug\_09.Star_Enigma.pdb
+G:\C#\GitHub Repositories\02. Technology Fundamentals with C# - 2019\09. Text Processing and Reg Expressions\09. Text Processing and Reg Expr\09. Star Enigma\obj\Debug\09. Star Enigma.csprojResolveAssemblyReference.cache
+G:\C#\GitHub Repositories\02. Technology Fundamentals with C# - 2019\09. Text Processing and Reg Expressions\09. Text Processing and Reg Expr\09. Star Enigma\obj\Debug\09. Star Enigma.csproj.CoreCompileInputs.cache
+G:\C#\GitHub Repositories\02. Technology Fundamentals with C# - 2019\09. Text Processing and Reg Expressions\09. Text Processing and Reg Expr\09. Star Enigma\obj\Debug\_09.Star_Enigma.exe
+G:\C#\GitHub Repositories\02. Technology Fundamentals with C# - 2019\09. Text Processing and Reg Expressions\09. Text Processing and Reg Expr\09. Star Enigma\obj\Debug\_09.Star_Enigma.pdb
